@@ -1,0 +1,15 @@
+{
+  "name": "crud_mean",
+  "version": "1.0.0",
+  "description": "CRUD app using nodejs and expressjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejashvi Sharma <tejashvi09sharma@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  }
+}
